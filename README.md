@@ -34,6 +34,9 @@ These data describe features assocaited with webcam images of 100 students' face
 
 ## Procedure
 
+* Build a neural net that predicts attention based on webcam images by using *neuralnet* package
+* Create predictions using neural net
+* Caculate the accuracy of the prediction
 
 
 
