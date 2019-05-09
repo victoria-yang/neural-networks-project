@@ -1,6 +1,6 @@
 # Neural Networks
 
-<img width = "600" src="https://github.com/victoria-yang/neural-networks/blob/master/network.png">
+<img width = "600" src="https://github.com/victoria-yang/neural-networks-project/blob/master/network.png">
 
 
 ### Description
