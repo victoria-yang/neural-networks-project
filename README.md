@@ -11,7 +11,7 @@ The accuracy of the neural net is also caculated in the end of the RMarkDown fil
 ### Prerequisites
 
 **R Packages**
-	-You will need these r packages to run this RMarkdown file.
+
 ```
 install.packages("neuralnet")
 install.packages("dplyr")
